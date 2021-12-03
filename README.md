@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gbrenegadz
 - 👀 I’m interested in Mobile Development and APIs
-- 🌱 I’m currently learning Flutter 2.0
+- 🌱 I’m currently learning Flutter 2.0, NodeJS and Firebase Functions
 - 💞️ I’m looking to collaborate on creating apps that will help others
 - 📫 How to reach me: email me at gilbertrenegadodev@gmail.com
 
